@@ -3,11 +3,10 @@
 *{ margin: 0;padding: 0;}
 
 body {
-    background: #0000ffb5;
+    background: rgb(0 0 255 / 71%);
     display: flex;
-    justify-content: center;
-    text-alige:center;
-    color:white;
+    text-align: center;
+    flex-direction: column;
 }
 .container{
     height: 309px;

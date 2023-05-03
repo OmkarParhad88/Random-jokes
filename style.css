@@ -6,6 +6,7 @@ body {
     background: #0000ffb5;
     display: flex;
     justify-content: center;
+    text-aline:center;
 }
 .container{
     height: 309px;

@@ -7,6 +7,7 @@ body {
     display: flex;
     justify-content: center;
     text-aline:center;
+    color:white;
 }
 .container{
     height: 309px;
